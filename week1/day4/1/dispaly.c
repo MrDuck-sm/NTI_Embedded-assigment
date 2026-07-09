@@ -5,4 +5,3 @@ void Display(char *array,int size){
         printf("your charcter: %c\n",(array[counter]));
     }
 }
-//same error as in the other file
