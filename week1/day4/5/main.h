@@ -1,0 +1,1 @@
+void repeat(char *array,char *c);
