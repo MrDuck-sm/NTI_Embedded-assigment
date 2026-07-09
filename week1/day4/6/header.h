@@ -1,0 +1,1 @@
+void maxchar(char *array,char *max);
