@@ -1,0 +1,1 @@
+void processTransaction(float *balance,int type);
