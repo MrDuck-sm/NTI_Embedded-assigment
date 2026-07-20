@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+    162	      0	      0	    162	     a2	D:\HTI\NTI\hw\week3\day11\button task\release\firmware.elf
