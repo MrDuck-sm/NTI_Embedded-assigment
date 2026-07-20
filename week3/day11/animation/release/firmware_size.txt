@@ -1,2 +1,0 @@
-   text	   data	    bss	    dec	    hex	filename
-    662	      0	      0	    662	    296	D:\HTI\NTI\hw\week3\day11\animation\release\firmware.elf
