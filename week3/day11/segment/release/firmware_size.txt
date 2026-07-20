@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+    260	      0	      0	    260	    104	D:\HTI\NTI\hw\week3\day11\segment\release\firmware.elf
