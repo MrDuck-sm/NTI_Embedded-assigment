@@ -43,7 +43,7 @@ void DisplayRang(uint8_t *GroupName,uint8_t Start , uint8_t End )
     while(1){
         for( uint8_t i= Start;i < End;i++)
         {
-          DisplayNumber(&PORTB_Reg,&i);//doesnt work like i need it to
+          DisplayNumber(&PORTB_Reg,&i);
           _delay_ms(1000);
         }  
     }
