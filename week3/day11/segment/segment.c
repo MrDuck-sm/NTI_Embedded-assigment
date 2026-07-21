@@ -7,9 +7,8 @@ number[10]={zero, one,two,three,four,five,six,seven,eight,nine},//number in  7 s
 start=4,        //if want to start from specifc num 
  end=8;          //and end it here
  Segment_Init(&GROUP);
-DisplayRang(DDRB_Reg,one,eight);
-
 DisplayNumber(&GROUP,&number);
+DisplayRang(DDRB_Reg,one,eight);
 }
 
 void Segment_Init(uint8_t *GroupName)
